@@ -1,4 +1,5 @@
-## Hi, I'm Ayan 👋
+
+<h1 align="center" >Hi 👋, I'm Ayan </h1>
 
 I am a student, currently learning **JS** and **Web Development**.
 
