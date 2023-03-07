@@ -13,12 +13,6 @@ I am a student, currently learning **JS** and **Web Development**.
 
 
 <!--START_SECTION:activity-->
-
-
-
-
-
-
 <!--END_SECTION:activity-->
 
 <!--
