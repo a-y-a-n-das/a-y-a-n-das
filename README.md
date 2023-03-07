@@ -17,10 +17,10 @@ I am a student, currently learning **JS** and **Web Development**.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#90](https://github.com/jamesgeorge007/github-activity-readme/issues/90) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. ❌ Closed PR [#5280](https://github.com/EddieHubCommunity/LinkFree/pull/5280) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#5280](https://github.com/EddieHubCommunity/LinkFree/issues/5280) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 💪 Opened PR [#5280](https://github.com/EddieHubCommunity/LinkFree/pull/5280) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. ❌ Closed PR [#5279](https://github.com/EddieHubCommunity/LinkFree/pull/5279) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#90](https://github.com/jamesgeorge007/github-activity-readme/issues/90) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#90](https://github.com/jamesgeorge007/github-activity-readme/issues/90) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. ❌ Closed PR [#5280](https://github.com/EddieHubCommunity/LinkFree/pull/5280) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#5280](https://github.com/EddieHubCommunity/LinkFree/issues/5280) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 <!--
