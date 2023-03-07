@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Friends 👋
 
 <!--
 **a-y-a-n-das/a-y-a-n-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
