@@ -1,6 +1,6 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400">
-	
-		
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
 
 
 
@@ -23,7 +23,7 @@
 }
 </style>
 
-	<div class="main"></div>
+<div class="main"></div>
 <div class="zoomin submain">
 <a  href="https://ayan-das.hashnode.dev">
 	<img src="https://github.com/a-y-a-n-das/a-y-a-n-das/raw/main/.files/h.jpg"/>
@@ -31,8 +31,8 @@
 	</div>
   
   <div class="container">
+			
 	</div>
-
-
-
+		</div>
+	</foreignObject>
 </svg>
