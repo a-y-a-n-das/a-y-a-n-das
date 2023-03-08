@@ -2,11 +2,12 @@
 <a></a>
 <div align="center">
 	<br>
-	<a>
-		 <img src="https://raw.githubusercontent.com/a-y-a-n-das/a-y-a-n-das/main/.github/workflows/hi.svg"/>
+	<a href="https://github.com/a-y-a-n-das">
+		 <img src="https://raw.githubusercontent.com/a-y-a-n-das/a-y-a-n-das/main/.github/workflows/hi.svg">
 	</a>
 	<br>
 </div>
+
 
 I am a student, currently learning **JS** and **Web Development**.
 
