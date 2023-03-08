@@ -24,6 +24,21 @@ I am a student, currently learning **JS** and **Web Development**.
 5. 🗣 Commented on [#90](https://github.com/jamesgeorge007/github-activity-readme/issues/90) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
+
+
+<h1 align="center"> Connect with me 🤝</h1>
+<p align="center">
+<a href="https://ayan-das.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white"/> </a> 
+<a href="https://www.twitter.com/ayan_das_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/ayan-das-5b1738267" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/> </a> 
+</p>
+
+
+
+
+
+
+
 <!--
 **a-y-a-n-das/a-y-a-n-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
