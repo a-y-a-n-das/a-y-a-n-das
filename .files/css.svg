@@ -25,8 +25,10 @@
 
 <div class="main">
 <div class="zoomin submain">
-<img href="https://ayan-das.hashnode.dev"; src="https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white";/>
-</div>
+<a  href="https://ayan-das.hashnode.dev">
+	<img src="https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white"/>
+	</a>
+	</div>
   
   <div class="container">
 			
