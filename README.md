@@ -45,11 +45,4 @@ I am a student, currently learning **JS** and **Web Development**.
 
 
 
-<div align="center">
-	<br>
-	<a href="https://raw.githubusercontent.com/a-y-a-n-das/a-y-a-n-das/main/.files/css.svg">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
 
