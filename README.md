@@ -39,19 +39,48 @@ I am a student, currently learning **JS** and **Web Development**.
 
 
 
-<!--
-**a-y-a-n-das/a-y-a-n-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Heyour .yml file.
 
-re are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+<svg fill="none" width="20" height="20" 
+  <foreignObject width="100%" height="100%">
+      <style type="text/css">
+.floatl{float:right;}
+.main{width: 100%;}
+.submain{width:30%; float:left;}
+.zoomin img {
+   width: 100px;
+  -webkit-transition: all 0.3s ease;
+     -moz-transition: all 0.3s ease;
+      -ms-transition: all 0.3s ease;
+          transition: all 0.3s ease;
+}
+.zoomin img:hover {
+  width: 120px;
+  transform: scale(1.2);
+ 
+
+}
+</style>
+
+<div class="main">
+<div class="zoomin submain">
+
+
+<a href="https://ayan-das.hashnode.dev" > <img src="https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white" />
+
+</a>
+
+
+</div>
+
+      <div class="container">
+        
+      </div>
+  </foreignObject>
+</svg>
