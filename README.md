@@ -45,42 +45,11 @@ I am a student, currently learning **JS** and **Web Development**.
 
 
 
-
-
-<svg fill="none" width="20" height="20" 
-  <foreignObject width="100%" height="100%">
-      <style type="text/css">
-.floatl{float:right;}
-.main{width: 100%;}
-.submain{width:30%; float:left;}
-.zoomin img {
-   width: 100px;
-  -webkit-transition: all 0.3s ease;
-     -moz-transition: all 0.3s ease;
-      -ms-transition: all 0.3s ease;
-          transition: all 0.3s ease;
-}
-.zoomin img:hover {
-  width: 120px;
-  transform: scale(1.2);
- 
-
-}
-</style>
-
-<div class="main">
-<div class="zoomin submain">
-
-
-<a href="https://ayan-das.hashnode.dev" > <img src="https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white" />
-
-</a>
-
-
+<div align="center">
+	<br>
+	<a href="https://raw.githubusercontent.com/a-y-a-n-das/a-y-a-n-das/main/.files/css.svg">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
 </div>
 
-      <div class="container">
-        
-      </div>
-  </foreignObject>
-</svg>
