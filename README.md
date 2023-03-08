@@ -9,7 +9,7 @@
 </div>
 
 
-I am a student, currently learning **JS** and **Web Development**.
+<h4 align="center">I am a student, currently learning JS and Web Development<h4>
 
 
 <p align="center">
