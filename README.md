@@ -41,9 +41,10 @@
 </p>
 
 <br>
-<a align="center" href="https://www.buymeacoffee.com/ayandas"><img src="https://github.com/a-y-a-n-das/a-y-a-n-das/raw/main/.github/workflows/download.png"/></a>
+	<div align="center">
+<a  href="https://www.buymeacoffee.com/ayandas"><img src="https://github.com/a-y-a-n-das/a-y-a-n-das/raw/main/.github/workflows/download.png"/></a>
 
-
+</div>
 
 
 
