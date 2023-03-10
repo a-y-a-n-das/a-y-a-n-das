@@ -32,8 +32,9 @@
 5. 🗣 Commented on [#90](https://github.com/jamesgeorge007/github-activity-readme/issues/90) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
-
-<h1 align="center"> Connect with me <img src="https://media.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" height="35" width="43"></h1>
+<a  href="https://github.com/a-y-a-n-das">
+<h1 align="center"> Connect with Me <img src="https://media.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" height="35" width="43"></h1>
+</a>
 <p align="center">
 <a href="https://ayan-das.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white"/> </a> 
 <a href="https://www.twitter.com/ayan_das_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
