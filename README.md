@@ -40,6 +40,9 @@
 <a href="https://www.linkedin.com/in/ayan-das-5b1738267" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/> </a> 
 </p>
 
+<br>
+<a align="center" href="https://www.buymeacoffee.com/ayandas"><img src="https://github.com/a-y-a-n-das/a-y-a-n-das/raw/main/.github/workflows/download.png"/></a>
+
 
 
 
