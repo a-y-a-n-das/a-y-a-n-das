@@ -9,7 +9,7 @@
 </div>
 
 
-<h4 align="center">I am a student, currently learning ML, JS and Web Development<h4>
+<h4 align="center"><h4>
 
 
 <p align="center">
