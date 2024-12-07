@@ -9,7 +9,6 @@
 </div>
 
 
-<h4 align="center">JS, Web, JAVA<h4>
 
 
 <p align="center">
