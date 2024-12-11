@@ -10,13 +10,13 @@
 
 
 
-
+<!--
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=a-y-a-n-das&show_icons=true&theme=radical">
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=a-y-a-n-das&theme=radical">
 </p>
 
-
+-->
 
 
 
