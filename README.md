@@ -24,7 +24,7 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#28590](https://github.com/microsoft/PowerToys/issues/28590) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+1. 🎉 Merged PR [#1](https://github.com/a-y-a-n-das/fuzzy-octo-spoon/pull/1) in [a-y-a-n-das/fuzzy-octo-spoon](https://github.com/a-y-a-n-das/fuzzy-octo-spoon)
 2. ❗ Opened issue [#17](https://github.com/brpaz/ulauncher-currency/issues/17) in [brpaz/ulauncher-currency](https://github.com/brpaz/ulauncher-currency)
 3. ❗ Opened issue [#49](https://github.com/icedman/search-light/issues/49) in [icedman/search-light](https://github.com/icedman/search-light)
 4. 🗣 Commented on [#90](https://github.com/jamesgeorge007/github-activity-readme/issues/90) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
