@@ -24,8 +24,8 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/a-y-a-n-das/fuzzy-octo-spoon/pull/1) in [a-y-a-n-das/fuzzy-octo-spoon](https://github.com/a-y-a-n-das/fuzzy-octo-spoon)
-2. ❗ Opened issue [#17](https://github.com/brpaz/ulauncher-currency/issues/17) in [brpaz/ulauncher-currency](https://github.com/brpaz/ulauncher-currency)
+1. 🗣 Commented on [#2753](https://github.com/bluewave-labs/Checkmate/issues/2753#issuecomment-3364134238) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+2. 🎉 Merged PR [#1](https://github.com/a-y-a-n-das/fuzzy-octo-spoon/pull/1) in [a-y-a-n-das/fuzzy-octo-spoon](https://github.com/a-y-a-n-das/fuzzy-octo-spoon)
 3. ❗ Opened issue [#49](https://github.com/icedman/search-light/issues/49) in [icedman/search-light](https://github.com/icedman/search-light)
 4. 🗣 Commented on [#90](https://github.com/jamesgeorge007/github-activity-readme/issues/90) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 5. ❌ Reopened PR [#5280](https://github.com/EddieHubCommunity/LinkFree/pull/5280) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
