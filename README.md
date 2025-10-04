@@ -24,11 +24,11 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2753](https://github.com/bluewave-labs/Checkmate/issues/2753#issuecomment-3365177252) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-2. 🗣 Commented on [#2753](https://github.com/bluewave-labs/Checkmate/issues/2753#issuecomment-3364480469) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-3. 🗣 Commented on [#2753](https://github.com/bluewave-labs/Checkmate/issues/2753#issuecomment-3364134238) in [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-4. 🎉 Merged PR [#1](https://github.com/a-y-a-n-das/fuzzy-octo-spoon/pull/1) in [a-y-a-n-das/fuzzy-octo-spoon](https://github.com/a-y-a-n-das/fuzzy-octo-spoon)
-5. ❌ Reopened PR [#5280](https://github.com/EddieHubCommunity/LinkFree/pull/5280) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🔒 Closed issue [#3](https://github.com/a-y-a-n-das/jsonresume.org/issues/3) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
+2. 🔓 Reopened issue [#3](https://github.com/a-y-a-n-das/jsonresume.org/issues/3) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
+3. 🔓 Reopened issue [#2](https://github.com/a-y-a-n-das/jsonresume.org/issues/2) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
+4. 🔓 Reopened issue [#1](https://github.com/a-y-a-n-das/jsonresume.org/issues/1) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
+5. 🔒 Closed issue [#3](https://github.com/a-y-a-n-das/jsonresume.org/issues/3) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
 <!--END_SECTION:activity-->
 
 
