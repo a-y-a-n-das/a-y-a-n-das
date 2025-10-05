@@ -24,11 +24,11 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/a-y-a-n-das/jsonresume.org/issues/7) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
-2. 🎉 Merged PR [#6](https://github.com/a-y-a-n-das/jsonresume.org/pull/6) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
-3. 💪 Opened PR [#6](https://github.com/a-y-a-n-das/jsonresume.org/pull/6) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
-4. 🔒 Closed issue [#5](https://github.com/a-y-a-n-das/jsonresume.org/issues/5) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
-5. ❗ Opened issue [#5](https://github.com/a-y-a-n-das/jsonresume.org/issues/5) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
+1. 🔒 Closed issue [#9](https://github.com/a-y-a-n-das/jsonresume.org/issues/9) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
+2. 🔒 Closed issue [#7](https://github.com/a-y-a-n-das/jsonresume.org/issues/7) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
+3. 🔒 Closed issue [#8](https://github.com/a-y-a-n-das/jsonresume.org/issues/8) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
+4. ❗ Opened issue [#7](https://github.com/a-y-a-n-das/jsonresume.org/issues/7) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
+5. 🎉 Merged PR [#6](https://github.com/a-y-a-n-das/jsonresume.org/pull/6) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
 <!--END_SECTION:activity-->
 
 
