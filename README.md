@@ -24,11 +24,11 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#214](https://github.com/jsonresume/jsonresume.org/pull/214) in [jsonresume/jsonresume.org](https://github.com/jsonresume/jsonresume.org)
-2. 🔒 Closed issue [#1](https://github.com/a-y-a-n-das/jsonresume.org/issues/1) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
-3. 🔒 Closed issue [#2](https://github.com/a-y-a-n-das/jsonresume.org/issues/2) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
-4. 🗣 Commented on [#213](https://github.com/jsonresume/jsonresume.org/pull/213#issuecomment-3368006112) in [jsonresume/jsonresume.org](https://github.com/jsonresume/jsonresume.org)
-5. 🎉 Merged PR [#4](https://github.com/a-y-a-n-das/jsonresume.org/pull/4) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
+1. 🗣 Commented on [#214](https://github.com/jsonresume/jsonresume.org/pull/214#issuecomment-3368785309) in [jsonresume/jsonresume.org](https://github.com/jsonresume/jsonresume.org)
+2. 💪 Opened PR [#214](https://github.com/jsonresume/jsonresume.org/pull/214) in [jsonresume/jsonresume.org](https://github.com/jsonresume/jsonresume.org)
+3. 🔒 Closed issue [#1](https://github.com/a-y-a-n-das/jsonresume.org/issues/1) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
+4. 🔒 Closed issue [#2](https://github.com/a-y-a-n-das/jsonresume.org/issues/2) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
+5. 🗣 Commented on [#213](https://github.com/jsonresume/jsonresume.org/pull/213#issuecomment-3368006112) in [jsonresume/jsonresume.org](https://github.com/jsonresume/jsonresume.org)
 <!--END_SECTION:activity-->
 
 
