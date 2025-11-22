@@ -24,11 +24,11 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [a-y-a-n-das/course-selling-app](https://github.com/a-y-a-n-das/course-selling-app)
-2. 💪 Opened PR [#1](undefined) in [a-y-a-n-das/course-selling-app](https://github.com/a-y-a-n-das/course-selling-app)
-3. 🗣 Commented on [#8238](https://github.com/processing/p5.js/pull/8238#issuecomment-3500945794) in [processing/p5.js](https://github.com/processing/p5.js)
-4. 💪 Opened PR [#8238](undefined) in [processing/p5.js](https://github.com/processing/p5.js)
-5. 🔒 Closed issue [#10](https://github.com/a-y-a-n-das/jsonresume.org/issues/10) in [a-y-a-n-das/jsonresume.org](https://github.com/a-y-a-n-das/jsonresume.org)
+1. 💪 Opened PR [#3](undefined) in [a-y-a-n-das/course-selling-app](https://github.com/a-y-a-n-das/course-selling-app)
+2. 💪 Opened PR [#2](undefined) in [a-y-a-n-das/course-selling-app](https://github.com/a-y-a-n-das/course-selling-app)
+3. 💪 Opened PR [#1](undefined) in [a-y-a-n-das/course-selling-app](https://github.com/a-y-a-n-das/course-selling-app)
+4. 🗣 Commented on [#8238](https://github.com/processing/p5.js/pull/8238#issuecomment-3500945794) in [processing/p5.js](https://github.com/processing/p5.js)
+5. 💪 Opened PR [#8238](undefined) in [processing/p5.js](https://github.com/processing/p5.js)
 <!--END_SECTION:activity-->
 
 
