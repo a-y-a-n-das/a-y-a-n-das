@@ -1,16 +1,17 @@
 
-<a></a>
+
 <div align="center">
 	<br>
 	<a href="https://github.com/a-y-a-n-das">
 		 <img src="https://raw.githubusercontent.com/a-y-a-n-das/a-y-a-n-das/main/.github/workflows/hi.svg">
 	</a>
-	<br>
+	<br>	
+<h2 align="center">Building Cloud-Ready Apps • MERN •  AWS</h2>
 </div>
+<br/>
 
 
-
-## Stats
+## 🚧 Stats
 <br/>
 <div align="center">
 	<img src="https://gh-readme.vercel.app/api?username=a-y-a-n-das&show_icons=true&include_all_commits=true&count_private=true&count_private=true&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&hide_rank=true&line_height=28" align="center" />
@@ -19,7 +20,7 @@
 <br/>
 
 
-## Stack
+## 🧩 Stack
 <div align="left">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
@@ -35,6 +36,11 @@
 	
 </div>
 
+## 🌱 Currently Learning
+- AWS Lambda + API Gateway
+- Docker
+- CI/CD with GitHub Actions
+
 
 # :zap: Recent Activity
 
@@ -46,6 +52,19 @@
 5. 💪 Opened PR [#8238](undefined) in [processing/p5.js](https://github.com/processing/p5.js)
 <!--END_SECTION:activity-->
 
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=a-y-a-n-das&theme=onedark&margin-w=10" />
+</p>
+
+
+<!--
+## 🐍 Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/a-y-a-n-das/a-y-a-n-das/output/github-contribution-grid-snake.svg" />
+</p>
+-->
 
 <h1 align="center"> Connect with Me<a  href="https://github.com/a-y-a-n-das"> <img src="https://media.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" height="35" width="43"></a></h1>
 	
