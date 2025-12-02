@@ -45,11 +45,11 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](undefined) in [a-y-a-n-das/CourseHive](https://github.com/a-y-a-n-das/CourseHive)
-2. 💪 Opened PR [#2](undefined) in [a-y-a-n-das/CourseHive](https://github.com/a-y-a-n-das/CourseHive)
-3. 💪 Opened PR [#1](undefined) in [a-y-a-n-das/CourseHive](https://github.com/a-y-a-n-das/CourseHive)
-4. 🗣 Commented on [#8238](https://github.com/processing/p5.js/pull/8238#issuecomment-3500945794) in [processing/p5.js](https://github.com/processing/p5.js)
-5. 💪 Opened PR [#8238](undefined) in [processing/p5.js](https://github.com/processing/p5.js)
+1. ❌ Merged PR [#3](undefined) in [a-y-a-n-das/CourseHive](https://github.com/a-y-a-n-das/CourseHive)
+2. 💪 Opened PR [#3](undefined) in [a-y-a-n-das/CourseHive](https://github.com/a-y-a-n-das/CourseHive)
+3. ❌ Merged PR [#2](undefined) in [a-y-a-n-das/CourseHive](https://github.com/a-y-a-n-das/CourseHive)
+4. 💪 Opened PR [#2](undefined) in [a-y-a-n-das/CourseHive](https://github.com/a-y-a-n-das/CourseHive)
+5. ❌ Merged PR [#1](undefined) in [a-y-a-n-das/CourseHive](https://github.com/a-y-a-n-das/CourseHive)
 <!--END_SECTION:activity-->
 
 ## 🏆 Trophies
