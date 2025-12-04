@@ -56,6 +56,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=a-y-a-n-das&theme=onedark&margin-w=10" />
 </p>
+	
+<a href="https://cloud.layer5.io/user/5e4a5487-8325-4703-9934-dea9165bfc47?tab=badges&badge=first-design">
+<img width="180px" height="250px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design"/>
+</a>
+
 
 
 <!--
