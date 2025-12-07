@@ -45,11 +45,11 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16588](https://github.com/meshery/meshery/pull/16588#issuecomment-3621518155) in [meshery/meshery](https://github.com/meshery/meshery)
-2. 🗣 Commented on [#16214](https://github.com/meshery/meshery/issues/16214#issuecomment-3620666195) in [meshery/meshery](https://github.com/meshery/meshery)
-3. 🗣 Commented on [#16214](https://github.com/meshery/meshery/issues/16214#issuecomment-3620612899) in [meshery/meshery](https://github.com/meshery/meshery)
-4. 🗣 Commented on [#7135](https://github.com/layer5io/layer5/issues/7135#issuecomment-3619491531) in [layer5io/layer5](https://github.com/layer5io/layer5)
-5. 🗣 Commented on [#16548](https://github.com/meshery/meshery/pull/16548#issuecomment-3619469386) in [meshery/meshery](https://github.com/meshery/meshery)
+1.  Labeled issue [#2448](https://github.com/meshery/meshery.io/issues/2448) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+2. ❗ Opened issue [#2448](https://github.com/meshery/meshery.io/issues/2448) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+3. 🗣 Commented on [#16214](https://github.com/meshery/meshery/issues/16214#issuecomment-3621913664) in [meshery/meshery](https://github.com/meshery/meshery)
+4. 🗣 Commented on [#16588](https://github.com/meshery/meshery/pull/16588#issuecomment-3621518155) in [meshery/meshery](https://github.com/meshery/meshery)
+5. 🗣 Commented on [#16214](https://github.com/meshery/meshery/issues/16214#issuecomment-3620666195) in [meshery/meshery](https://github.com/meshery/meshery)
 <!--END_SECTION:activity-->
 
 ## 🏆 Trophies
