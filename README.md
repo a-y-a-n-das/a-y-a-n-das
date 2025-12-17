@@ -45,11 +45,11 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16588](https://github.com/meshery/meshery/pull/16588#issuecomment-3646046793) in [meshery/meshery](https://github.com/meshery/meshery)
-2. 🗣 Commented on [#16588](https://github.com/meshery/meshery/pull/16588#issuecomment-3645190824) in [meshery/meshery](https://github.com/meshery/meshery)
-3. 🗣 Commented on [#16588](https://github.com/meshery/meshery/pull/16588#issuecomment-3644684583) in [meshery/meshery](https://github.com/meshery/meshery)
-4. 🗣 Commented on [#16548](https://github.com/meshery/meshery/pull/16548#issuecomment-3636970463) in [meshery/meshery](https://github.com/meshery/meshery)
-5. 🗣 Commented on [#2448](https://github.com/meshery/meshery.io/issues/2448#issuecomment-3635311474) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+1. 🗣 Commented on [#16548](https://github.com/meshery/meshery/pull/16548#issuecomment-3666588990) in [meshery/meshery](https://github.com/meshery/meshery)
+2. 🗣 Commented on [#16588](https://github.com/meshery/meshery/pull/16588#issuecomment-3646046793) in [meshery/meshery](https://github.com/meshery/meshery)
+3. 🗣 Commented on [#16588](https://github.com/meshery/meshery/pull/16588#issuecomment-3645190824) in [meshery/meshery](https://github.com/meshery/meshery)
+4. 🗣 Commented on [#16588](https://github.com/meshery/meshery/pull/16588#issuecomment-3644684583) in [meshery/meshery](https://github.com/meshery/meshery)
+5. 🗣 Commented on [#16548](https://github.com/meshery/meshery/pull/16548#issuecomment-3636970463) in [meshery/meshery](https://github.com/meshery/meshery)
 <!--END_SECTION:activity-->
 
 ## 🏆 Trophies
