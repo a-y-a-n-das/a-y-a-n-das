@@ -45,7 +45,7 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16738](undefined) in [meshery/meshery](https://github.com/meshery/meshery)
+1. 💪 Opened PR [#16738](https://github.com/meshery/meshery/pull/16738) in [meshery/meshery](https://github.com/meshery/meshery)
 2. 🗣 Commented on [#16588](https://github.com/meshery/meshery/pull/16588#issuecomment-3677646103) in [meshery/meshery](https://github.com/meshery/meshery)
 3. 🗣 Commented on [#16548](https://github.com/meshery/meshery/pull/16548#issuecomment-3666588990) in [meshery/meshery](https://github.com/meshery/meshery)
 4. 🗣 Commented on [#16588](https://github.com/meshery/meshery/pull/16588#issuecomment-3646046793) in [meshery/meshery](https://github.com/meshery/meshery)
