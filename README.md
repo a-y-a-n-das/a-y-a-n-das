@@ -13,12 +13,11 @@
 
 ## 🚧 Stats
 <br/>
-<div align="center">
-	<img src="https://gh-readme.vercel.app/api?username=a-y-a-n-das&show_icons=true&include_all_commits=true&count_private=true&count_private=true&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&hide_rank=true&line_height=28" align="center" />
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=a-y-a-n-das&hide_border=true&date_format=j%20M%5B%20Y%5D&background=040506&ring=00cbf3&fire=00cbf3&currStreakNum=00cbf3&sideNums=00cbf3&sideLabels=00cbf3&dates=00cbf3&currStreakLabel=00cbf3&stroke=040506" width="495px" height="195px" align="center">
-</div>
-<br/>
 
+![a-y-a-n-das's Stats](https://github-readme-stats.vercel.app/api?username=a-y-a-n-das&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+
+![a-y-a-n-das's Streak](https://github-readme-streak-stats.herokuapp.com/?user=a-y-a-n-das&theme=highcontrast&hide_border=true)
+<br/>
 
 ## 🧩 Stack
 <div align="left">
