@@ -46,10 +46,10 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/openstreetmap-ng/openstreetmap-ng/issues/31#issuecomment-3809390307) in [openstreetmap-ng/openstreetmap-ng](https://github.com/openstreetmap-ng/openstreetmap-ng)
-2. 🗣 Commented on [#8238](https://github.com/processing/p5.js/pull/8238#issuecomment-3711490564) in [processing/p5.js](https://github.com/processing/p5.js)
-3. 🗣 Commented on [#2419](https://github.com/DIGI-UW/OpenELIS-Global-2/issues/2419#issuecomment-3707695588) in [DIGI-UW/OpenELIS-Global-2](https://github.com/DIGI-UW/OpenELIS-Global-2)
-4. 🗣 Commented on [#16588](https://github.com/meshery/meshery/pull/16588#issuecomment-3677646103) in [meshery/meshery](https://github.com/meshery/meshery)
+1. 🗣 Commented on [#86](https://github.com/yshmarov/stripe_ecommerce/issues/86#issuecomment-3809552726) in [yshmarov/stripe_ecommerce](https://github.com/yshmarov/stripe_ecommerce)
+2. 🗣 Commented on [#31](https://github.com/openstreetmap-ng/openstreetmap-ng/issues/31#issuecomment-3809390307) in [openstreetmap-ng/openstreetmap-ng](https://github.com/openstreetmap-ng/openstreetmap-ng)
+3. 🗣 Commented on [#8238](https://github.com/processing/p5.js/pull/8238#issuecomment-3711490564) in [processing/p5.js](https://github.com/processing/p5.js)
+4. 🗣 Commented on [#2419](https://github.com/DIGI-UW/OpenELIS-Global-2/issues/2419#issuecomment-3707695588) in [DIGI-UW/OpenELIS-Global-2](https://github.com/DIGI-UW/OpenELIS-Global-2)
 5. 🗣 Commented on [#16548](https://github.com/meshery/meshery/pull/16548#issuecomment-3666588990) in [meshery/meshery](https://github.com/meshery/meshery)
 <!--END_SECTION:activity-->
 
