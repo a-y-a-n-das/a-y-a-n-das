@@ -46,11 +46,11 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2562](https://github.com/JabRef/JabRefOnline/issues/2562#issuecomment-3830920958) in [JabRef/JabRefOnline](https://github.com/JabRef/JabRefOnline)
-2. 🗣 Commented on [#86](https://github.com/yshmarov/stripe_ecommerce/issues/86#issuecomment-3821723084) in [yshmarov/stripe_ecommerce](https://github.com/yshmarov/stripe_ecommerce)
-3. 🗣 Commented on [#86](https://github.com/yshmarov/stripe_ecommerce/issues/86#issuecomment-3819395535) in [yshmarov/stripe_ecommerce](https://github.com/yshmarov/stripe_ecommerce)
-4. 🗣 Commented on [#86](https://github.com/yshmarov/stripe_ecommerce/issues/86#issuecomment-3809552726) in [yshmarov/stripe_ecommerce](https://github.com/yshmarov/stripe_ecommerce)
-5. 🗣 Commented on [#31](https://github.com/openstreetmap-ng/openstreetmap-ng/issues/31#issuecomment-3809390307) in [openstreetmap-ng/openstreetmap-ng](https://github.com/openstreetmap-ng/openstreetmap-ng)
+1. 💪 Opened PR [#2866](https://github.com/JabRef/JabRefOnline/pull/2866) in [JabRef/JabRefOnline](https://github.com/JabRef/JabRefOnline)
+2. 🗣 Commented on [#2562](https://github.com/JabRef/JabRefOnline/issues/2562#issuecomment-3830920958) in [JabRef/JabRefOnline](https://github.com/JabRef/JabRefOnline)
+3. 🗣 Commented on [#86](https://github.com/yshmarov/stripe_ecommerce/issues/86#issuecomment-3821723084) in [yshmarov/stripe_ecommerce](https://github.com/yshmarov/stripe_ecommerce)
+4. 🗣 Commented on [#86](https://github.com/yshmarov/stripe_ecommerce/issues/86#issuecomment-3819395535) in [yshmarov/stripe_ecommerce](https://github.com/yshmarov/stripe_ecommerce)
+5. 🗣 Commented on [#86](https://github.com/yshmarov/stripe_ecommerce/issues/86#issuecomment-3809552726) in [yshmarov/stripe_ecommerce](https://github.com/yshmarov/stripe_ecommerce)
 <!--END_SECTION:activity-->
 
 ## 🏆 Trophies
