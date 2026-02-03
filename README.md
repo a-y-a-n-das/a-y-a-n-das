@@ -13,11 +13,23 @@
 
 ## 🚧 Stats
 <br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-y-a-n-das&theme=radical" />
+</p>
 
-![a-y-a-n-das's Stats](https://github-readme-stats.vercel.app/api?username=a-y-a-n-das&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-
-![a-y-a-n-das's Streak](https://github-readme-streak-stats.herokuapp.com/?user=a-y-a-n-das&theme=highcontrast&hide_border=true)
 <br/>
+
+<p align="center">
+  <img
+    src="https://github-contribution-stats.vercel.app/api/?username=a-y-a-n-das&theme=radical&layout=compact"
+    width="400"
+  />
+  <img
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/a-y-a-n-das?cardType=level&theme=radical&preferLogin=false"
+    width="420"
+  />
+</p>
+
 
 ## 🧩 Stack
 <div align="left">
