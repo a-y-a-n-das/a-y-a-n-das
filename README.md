@@ -6,7 +6,6 @@
 		 <img src="https://raw.githubusercontent.com/a-y-a-n-das/a-y-a-n-das/main/.github/workflows/hi.svg">
 	</a>
 	<br>	
-<h2 align="center">Building Cloud-Ready Apps • MERN •  AWS</h2>
 </div>
 <br/>
 
