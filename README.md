@@ -66,7 +66,7 @@
 
 ## 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a-y-a-n-das&theme=onedark&margin-w=10" />
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=a-y-a-n-das" />
 </p>
 	
 <a href="https://cloud.layer5.io/user/5e4a5487-8325-4703-9934-dea9165bfc47?tab=badges&badge=first-design">
