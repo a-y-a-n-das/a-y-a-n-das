@@ -57,10 +57,10 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#391](https://github.com/valhalla/web-app/pull/391) in [valhalla/web-app](https://github.com/valhalla/web-app)
-2. 🎉 Merged PR [#2867](https://github.com/JabRef/JabRefOnline/pull/2867) in [JabRef/JabRefOnline](https://github.com/JabRef/JabRefOnline)
-3. 🎉 Merged PR [#2866](https://github.com/JabRef/JabRefOnline/pull/2866) in [JabRef/JabRefOnline](https://github.com/JabRef/JabRefOnline)
-4. 🗣 Commented on [#2784](https://github.com/JabRef/JabRefOnline/issues/2784#issuecomment-3832611654) in [JabRef/JabRefOnline](https://github.com/JabRef/JabRefOnline)
+1. 🎉 Merged PR [#391](https://github.com/valhalla/web-app/pull/391) in [valhalla/web-app](https://github.com/valhalla/web-app)
+2. 💪 Opened PR [#391](https://github.com/valhalla/web-app/pull/391) in [valhalla/web-app](https://github.com/valhalla/web-app)
+3. 🎉 Merged PR [#2867](https://github.com/JabRef/JabRefOnline/pull/2867) in [JabRef/JabRefOnline](https://github.com/JabRef/JabRefOnline)
+4. 🎉 Merged PR [#2866](https://github.com/JabRef/JabRefOnline/pull/2866) in [JabRef/JabRefOnline](https://github.com/JabRef/JabRefOnline)
 5. 🗣 Commented on [#2784](https://github.com/JabRef/JabRefOnline/issues/2784#issuecomment-3831435193) in [JabRef/JabRefOnline](https://github.com/JabRef/JabRefOnline)
 <!--END_SECTION:activity-->
 
