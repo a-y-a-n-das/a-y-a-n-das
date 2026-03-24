@@ -57,11 +57,11 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#400](https://github.com/valhalla/web-app/pull/400) in [valhalla/web-app](https://github.com/valhalla/web-app)
-2. 💪 Opened PR [#397](https://github.com/valhalla/web-app/pull/397) in [valhalla/web-app](https://github.com/valhalla/web-app)
-3. 🎉 Merged PR [#391](https://github.com/valhalla/web-app/pull/391) in [valhalla/web-app](https://github.com/valhalla/web-app)
-4. 💪 Opened PR [#391](https://github.com/valhalla/web-app/pull/391) in [valhalla/web-app](https://github.com/valhalla/web-app)
-5. 🎉 Merged PR [#2867](https://github.com/JabRef/JabRefOnline/pull/2867) in [JabRef/JabRefOnline](https://github.com/JabRef/JabRefOnline)
+1. 🎉 Merged PR [#400](https://github.com/valhalla/web-app/pull/400) in [valhalla/web-app](https://github.com/valhalla/web-app)
+2. 💪 Opened PR [#400](https://github.com/valhalla/web-app/pull/400) in [valhalla/web-app](https://github.com/valhalla/web-app)
+3. 💪 Opened PR [#397](https://github.com/valhalla/web-app/pull/397) in [valhalla/web-app](https://github.com/valhalla/web-app)
+4. 🎉 Merged PR [#391](https://github.com/valhalla/web-app/pull/391) in [valhalla/web-app](https://github.com/valhalla/web-app)
+5. 💪 Opened PR [#391](https://github.com/valhalla/web-app/pull/391) in [valhalla/web-app](https://github.com/valhalla/web-app)
 <!--END_SECTION:activity-->
 
 ## 🏆 Trophies
