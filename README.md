@@ -57,11 +57,11 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#405](https://github.com/valhalla/web-app/pull/405#issuecomment-4182181441) in [valhalla/web-app](https://github.com/valhalla/web-app)
-2. 🗣 Commented on [#405](https://github.com/valhalla/web-app/pull/405#issuecomment-4149963533) in [valhalla/web-app](https://github.com/valhalla/web-app)
-3. 💪 Opened PR [#408](https://github.com/valhalla/web-app/pull/408) in [valhalla/web-app](https://github.com/valhalla/web-app)
-4. 💪 Opened PR [#405](https://github.com/valhalla/web-app/pull/405) in [valhalla/web-app](https://github.com/valhalla/web-app)
-5. 🎉 Merged PR [#400](https://github.com/valhalla/web-app/pull/400) in [valhalla/web-app](https://github.com/valhalla/web-app)
+1. 🗣 Commented on [#408](https://github.com/valhalla/web-app/pull/408#issuecomment-4191988617) in [valhalla/web-app](https://github.com/valhalla/web-app)
+2. 🗣 Commented on [#405](https://github.com/valhalla/web-app/pull/405#issuecomment-4191970321) in [valhalla/web-app](https://github.com/valhalla/web-app)
+3. 🗣 Commented on [#405](https://github.com/valhalla/web-app/pull/405#issuecomment-4182181441) in [valhalla/web-app](https://github.com/valhalla/web-app)
+4. 🗣 Commented on [#405](https://github.com/valhalla/web-app/pull/405#issuecomment-4149963533) in [valhalla/web-app](https://github.com/valhalla/web-app)
+5. 💪 Opened PR [#408](https://github.com/valhalla/web-app/pull/408) in [valhalla/web-app](https://github.com/valhalla/web-app)
 <!--END_SECTION:activity-->
 
 ## 🏆 Trophies
